@@ -20,6 +20,7 @@
 - 📲 UIKit
 - 🎨 SwiftUI
 - 💽 Core Data
+- 👑 Clean Swift Architecture (VIP)
 
 ---
 
