@@ -14,10 +14,21 @@
 - 🫶 BIG Google & Stack Overflow fan
 - ⚽️ I'm a sports lover
 
- ### 🎯Skills
+---
+
+### 🎯Skills:
 - 📲 UIKit
 - 🎨 SwiftUI
 - 💽 Core Data
+
+---
+
+### 📫 Contact me:
+
+<a href="mailto:a.stecenko7@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/андрей-стеценко-942273234/"><img alt="Mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 <!--
 **Andruxa7/Andruxa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
