@@ -19,7 +19,13 @@
 ### 🎯Skills:
 - 📲 UIKit
 - 🎨 SwiftUI
+- 📡 RESTful API
+- 🛰️ Gitflow
+- 💾 UserDefaults
 - 💽 Core Data
+- 🚀 Firebase
+- 📗 MVC
+- 📚 MVVM
 - 👑 Clean Swift Architecture (VIP)
 
 ---
