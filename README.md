@@ -16,7 +16,7 @@
 
 ### About Me:
 - 💻 I started teaching myself iOS Development in 2018
-- 👨‍💻 I've been working as an iOS Developer since 2024, when I joined Steegler to work on the open-source project OpenPTT
+- 👨‍💻 I've been working as an iOS Developer since 2024, when I joined Steegler as a volunteer to work on the open-source project OpenPTT
 - 🏢 Since November 2025 I'm an iOS Developer at Everscale (SmartScanner, RemoteTV Controller, Printer, QR Code)
 - 📱 In 2026 I built and released my first commercial app to order, VNK Calculator
 - 🏠 Before iOS I worked as a sales manager for roofing materials, so I know my first client's domain from the inside
