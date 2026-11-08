@@ -17,7 +17,7 @@
 ### About Me:
 - 💻 I started teaching myself iOS Development in 2018
 - 👨‍💻 I've been working as an iOS Developer since 2024, when I joined Steegler as a volunteer to work on OpenPTT, a push-to-talk messenger (top contributor in a team of 19 developers)
-- 🚦 From August 2025 to March 2026 I was an iOS Developer at United Traffic (remote): built 7 SwiftUI apps for iPhone and iPad as the sole iOS developer
+- 🚦 From August 2025 to March 2026 I was an iOS Developer at United Traffic (remote): built 7 SwiftUI apps for iPhone and iPad from scratch, each one on my own in 2-4 weeks
 - 🏢 From November 2025 to October 2026 I was an iOS Developer at Everscale (SmartScanner, RemoteTV Controller, Printer, QR Code)
 - 📱 In 2026 I built and released my first commercial app to order, VNK Calculator
 - 🏠 Before iOS I worked as a sales manager for roofing materials, so I know my first client's domain from the inside
